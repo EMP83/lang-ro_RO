@@ -1,12 +1,13 @@
-Select File=
-Error reading file=
-No Backup File Found=
-Select a file to edit=
-note editing a binary file could have unintended consequences=
-No file selected=
-Backup File=
-Editing=
-Generally, it is not recommended to change the format=
-Credits=
-No Backup File Found=
-File Format=
+Select File=Selectați Fișier
+Error reading file=Eroare la citirea fișierului
+No Backup File Found=Nu a fost găsit niciun fișier de rezervă
+Select a file to edit=Selectați fișier pentru editare
+note editing a binary file could have unintended consequences=notă : editarea unui fișier binar ar putea avea consecințe nedorite
+No file selected=Niciun fișier selectat
+Backup File=Fisier de rezervă
+Editing=Editare
+Generally, it is not recommended to change the format=În general, nu este recomandat să schimbați formatul
+Credits=Mulţumiri
+No Backup File Found=Nu a fost găsit niciun fișier de rezervă
+File Format=Tipul fișierului
+
